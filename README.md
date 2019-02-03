@@ -1,2 +1,2 @@
-## Class Examples Exist in the Different Branches
-The `master` branch does not contain any examples. Please see the different branches for the topics discussed in class this week.
+## Topics Covered in Week 1
+This week, we covered all the commands discussed at [`http://code-warrior.github.io/tutorials/the-terminal/`](http://code-warrior.github.io/tutorials/the-terminal/). Many will appear in the first assignment.
